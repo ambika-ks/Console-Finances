@@ -89,7 +89,7 @@ var finances = [
 
 const c=console.log.bind(document);
 c(`==========================================================`);
-c("      FINANCIAL ANALYSIS          ");
+c("         FINANCIAL ANALYSIS                               ");
 c(`==========================================================`);
 
 //Find the length of the Array
